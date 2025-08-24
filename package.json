@@ -1,0 +1,21 @@
+{
+  "name": "njust-docs",
+  "version": "1.0.0",
+  "description": "本平台正处于关键的建设阶段，您的每一份关注、每一次维护，以及任何形式的贡献，都是支撑本平台持续茁壮成长、不断发展壮大的核心动力。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NJUST-OpenLib/NJUST-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NJUST-OpenLib/NJUST-docs/issues"
+  },
+  "homepage": "https://github.com/NJUST-OpenLib/NJUST-docs#readme"
+}
