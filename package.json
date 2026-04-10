@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/NJUST-OpenLib/NJUST-docs/issues"
   },
-  "homepage": "https://github.com/NJUST-OpenLib/NJUST-docs#readme"
+  "homepage": "https://github.com/NJUST-OpenLib/NJUST-docs#readme",
+  "dependencies": {
+    "fs-extra": "^11.3.1"
+  }
 }
